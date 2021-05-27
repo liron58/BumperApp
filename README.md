@@ -1,6 +1,6 @@
 # Bumper
 
-This App intended for .
+This App intended for leverage random, "one-shot" encounters among people inside organization.
 
 ## Getting Started
 
