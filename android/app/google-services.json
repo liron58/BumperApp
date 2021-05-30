@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901386566153",
+    "project_id": "bumperbase-375aa",
+    "storage_bucket": "bumperbase-375aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901386566153:android:db4bfe8c140ba8ee4916d8",
+        "android_client_info": {
+          "package_name": "com.example.blank_project_skeleton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901386566153-sj0g6o4c3m46a19f56nc8tkn7k8tot03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EQKuzhgyXCwLc-qD7zAc0kIoK1yATh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901386566153-sj0g6o4c3m46a19f56nc8tkn7k8tot03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
